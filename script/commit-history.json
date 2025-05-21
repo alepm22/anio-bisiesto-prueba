@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-05-21T23:13:13.000Z",
+      "message": "anio bisiesto 100.",
+      "url": "https://github.com/alepm22/anio-bisiesto-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-21"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
