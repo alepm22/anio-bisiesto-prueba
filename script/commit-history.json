@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "82a5507d4e1d4dce5ab13479111e44b68444acdf",
     "author": "Alepm22",
     "commit": {
       "date": "2025-05-21T23:13:13.000Z",
       "message": "anio bisiesto 100.",
-      "url": "https://github.com/alepm22/anio-bisiesto-prueba/commit/HEAD"
+      "url": "https://github.com/alepm22/anio-bisiesto-prueba/commit/82a5507d4e1d4dce5ab13479111e44b68444acdf"
     },
     "stats": {
       "total": 0,
@@ -17,5 +17,24 @@
     "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-05-22T03:26:48.000Z",
+      "message": "prueba falla",
+      "url": "https://github.com/alepm22/anio-bisiesto-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
