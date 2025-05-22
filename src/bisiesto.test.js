@@ -11,8 +11,7 @@ describe("El anio 2000 es un anio bisiesto", () => {
       expect(bisiesto(2001)).toEqual("True");  // ¡esto está mal, hará que el test falle!
     });
   });
-
-  
+//cambio
   describe("El anio 1700 no es un anio bisiesto", () => {
     it("No es un anio bisiesto divisible entre 100", () => {
       expect(bisiesto(1700)).toEqual("False");
